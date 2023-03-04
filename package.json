@@ -1,0 +1,19 @@
+{
+  "name": "SModulo_28_Ebac",
+  "version": "1.0.0",
+  "description": "Testes de perfomance usando k6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silviomfonseca/SModulo_28_Ebac.git"
+  },
+  "author": "SilviomFonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silviomfonseca/SModulo_28_Ebac.git"
+  },
+  "homepage": "https://github.com/silviomfonseca/SModulo_28_Ebac.git"
+}
